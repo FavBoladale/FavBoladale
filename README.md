@@ -8,9 +8,9 @@ I'm a Cloud Engineer, Content Creator, and Community Engineer who currently lear
 
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I'm currently studying cloud engineering at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning Linux, Ansible, and Docker.
+- 🌱 I’m currently learning Python, Linux, Ansible, and Docker.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Cloud Engineer, IT Engineer, or cloud Architect Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Cloud Engineer or DevOps Engineer
 - 📫 You can [view my resume](#) and contact me by emailing mailtoakinpeluboladale77@gmail.com.
 
 ---
