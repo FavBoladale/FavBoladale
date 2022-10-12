@@ -15,5 +15,5 @@ I'm a Cloud Engineer, Content Creator, and Community Engineer who currently lear
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=boladaleakinpelu&show_icons=true&include_all_commits=true&hide_border=true" alt="Boladale's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boladaleakinpelui&langs_count=8&layout=compact&hide_border=true" alt="Boladale's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=boladaleakinpelu&show_icons=true&include_all_commits=true&hide_border=true" alt="Boladale's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=favboladalei&langs_count=8&layout=compact&hide_border=true" alt="Boladale's GitHub stats" /> |
 | ------------- | ------------- |
