@@ -11,7 +11,7 @@ I'm a Cloud Engineer, Content Creator, and Community Engineer who currently lear
 - 🌱 I’m currently learning Python, Linux, Ansible, and Docker.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Cloud Engineer or DevOps Engineer
-- 📫 You can [view my resume](file:///C:/Users/BOLADALE/Downloads/Boladale_Akinpelu_Resume.pdf) and contact me by emailing mailtoakinpeluboladale77@gmail.com.
+- 📫 You can [view my resume](#) and contact me by emailing mailtoakinpeluboladale77@gmail.com.
 
 ---
 
