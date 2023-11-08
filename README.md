@@ -7,8 +7,8 @@ I'm a data/Cloud Engineer and Technical Writer. I'm passionate about sharing kno
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
-- 💡 Fun fact: I'm currently studying cloud engineering at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 Stack: SQL, Python, Linux, Terraform, Ansible, and Docker.
+- 💡 Fun fact: I pronounce my /R/ like a Frenchman
+- 🌱 Stack: SQL, Python, Linux, Terraform, Ansible, Kubernetes and Docker.
 - 😊 I’m interested in open-source projects, hackathons, and job opportunities.
 - 💼 Job interests: Data Engineer, Cloud Engineer or DevOps Engineer
 - 📫 You can [view my resume](#) and contact me by emailing mailtoakinpeluboladale77@gmail.com.
